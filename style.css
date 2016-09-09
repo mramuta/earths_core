@@ -6,3 +6,6 @@ form{
 	display: block;
 	border: 5px solid hotpink;
 }
+table{
+	margin: 10px auto;
+}
