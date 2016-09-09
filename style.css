@@ -1,5 +1,5 @@
-body {
-	background: blue;
+body{
+	background: lightblue;
 }
 form{
 	padding: 30px;
@@ -11,4 +11,10 @@ table{
 }
 footer{
 	margin: auto;
+}
+ol{
+	background-image: url(thumbs_down.png);
+	height: 100px;
+	width: 400px;
+	padding-top: 30px;
 }
