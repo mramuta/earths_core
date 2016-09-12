@@ -32,3 +32,8 @@ a:visited{
 	border-style: dotted;
 	border-width: 5px;
 }
+@media screen and (max-width: 400px) {
+  img{
+    width: 100%;
+  }
+}
