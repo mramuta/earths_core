@@ -21,3 +21,7 @@ ol{
 h1{
 	font-family: impact;
 }
+.sec_title{
+	text-decoration: underline;
+	font-size: 1.5em;
+}
