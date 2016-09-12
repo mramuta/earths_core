@@ -28,3 +28,7 @@ h1{
 a:visited{
 	color: yellow;
 }
+#disclaimer_body{
+	border-style: dotted;
+	border-width: 5px;
+}
